@@ -1,0 +1,20 @@
+aulaEstruturaDeDados/pilhas/No.java
+ aulaEstruturaDeDados.pilhas.No
+aulaEstruturaDeDados/pilhas/Pillha.java
+ aulaEstruturaDeDados.pilhas.Pillha
+aulaEstruturaDeDados/generics/No.java
+ aulaEstruturaDeDados.generics.No
+aulaEstruturaDeDados/referencia_e_memoria/MeuObj.java
+ aulaEstruturaDeDados.referencia_e_memoria.MeuObj
+aulaEstruturaDeDados/conceitoEAplicacaoDeNo/No.java
+ aulaEstruturaDeDados.conceitoEAplicacaoDeNo.No
+aulaEstruturaDeDados/generics/Main.java
+ aulaEstruturaDeDados.generics.Main
+aulaEstruturaDeDados/referencia_e_memoria/Main.java
+ aulaEstruturaDeDados.referencia_e_memoria.Main
+aulaEstruturaDeDados/conceitoEAplicacaoDeNo/Main.java
+ aulaEstruturaDeDados.conceitoEAplicacaoDeNo.Main
+aulaEstruturaDeDados/Inicia.java
+ aulaEstruturaDeDados.Inicia
+aulaEstruturaDeDados/pilhas/Main.java
+ aulaEstruturaDeDados.pilhas.Main
