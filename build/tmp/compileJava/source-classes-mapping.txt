@@ -18,3 +18,9 @@ aulaEstruturaDeDados/Inicia.java
  aulaEstruturaDeDados.Inicia
 aulaEstruturaDeDados/pilhas/Main.java
  aulaEstruturaDeDados.pilhas.Main
+aulaEstruturaDeDados/fila/Fila.java
+ aulaEstruturaDeDados.fila.Fila
+aulaEstruturaDeDados/fila/No.java
+ aulaEstruturaDeDados.fila.No
+aulaEstruturaDeDados/fila/Main.java
+ aulaEstruturaDeDados.fila.Main
