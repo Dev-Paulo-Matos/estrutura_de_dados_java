@@ -2,10 +2,10 @@
 
 ## Conceitos aprendidos
 
-[ ]- FIFO
-[ ]- LIFO
-[ ]- Referencia em Java
-[ ]- Memoria
-[ ]- Utilizando classes e objetos
-[ ]- Conceito de NÓ
-[ ]- Encadeamento de NÓs
+- [x]  FIFO
+- [x] LIFO
+- [x] Referencia em Java
+- [x] Memoria
+- [x] Utilizando classes e objetos
+- [x] Conceito de NÓ
+- [x] Encadeamento de NÓs
