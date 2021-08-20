@@ -2,8 +2,8 @@
 
 ## Conceitos aprendidos
 
-[]- FIFO
-[]- LIFO
+[ ] - FIFO
+[ ]- LIFO
 []- Referencia em Java
 []- Memoria
 []- Utilizando classes e objetos
