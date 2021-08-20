@@ -2,7 +2,7 @@
 
 ## Conceitos aprendidos
 
-[ ] - FIFO
+[ x ] - FIFO
 [ ]- LIFO
 []- Referencia em Java
 []- Memoria
